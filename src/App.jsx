@@ -49,6 +49,8 @@ const skillGroups = [
       { name: 'LangChain', color: '#fb923c' },
       { name: 'Prompt Engineering', color: '#f97316' },
       { name: 'REST APIs', color: '#818cf8' },
+      { name: 'LangFlow', color: '#fb923c' },
+      { name: 'Deepeval', color: '#fb923c' },
     ],
   },
   {
